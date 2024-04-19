@@ -1,0 +1,304 @@
+Diagrama USE-case
+@startuml
+!define ACTOR(name) actor name as "**name**"
+!define USECASE(name, description) usecase name as "**description**"
+
+ACTOR(Utilizator)
+
+USECASE(UC1, "Vizualizează și gestionează detaliile contului")
+USECASE(UC2, "Autentificare și deconectare")
+USECASE(UC3, "Transferă bani")
+USECASE(UC4, "Plătește facturi")
+USECASE(UC5, "Programează plăți recurente")
+USECASE(UC6, "Vizualizează și gestionează extrase de cont")
+USECASE(UC7, "Trimite și primește mesaje securizate")
+USECASE(UC8, "Setează și gestionează alerte")
+USECASE(UC9, "Încarcă și gestionează documente")
+USECASE(UC10, "Solicită închiderea și reinstalarea contului")
+USECASE(UC11, "Actualizează informații personale și schimbă parola")
+USECASE(UC12, "Accesează FAQs și contactează suportul")
+USECASE(UC13, "Gestionează tranzacții în așteptare")
+
+Utilizator --> UC1
+Utilizator --> UC2
+Utilizator --> UC3
+Utilizator --> UC4
+Utilizator --> UC5
+Utilizator --> UC6
+Utilizator --> UC7
+Utilizator --> UC8
+Utilizator --> UC9
+Utilizator --> UC10
+Utilizator --> UC11
+Utilizator --> UC12
+Utilizator --> UC13
+@enduml
+
+
+Diagrama de Activitati:
+@startuml
+!define ACTIVITY(name) :name;
+!define DECISION(name) if "(Decizie)" then (name)
+
+' Autentificare 
+package "Autentificare " {
+   --> ACTIVITY(Autentificare)
+}
+'Vizualizare Detalii Cont
+package "Vizualizare Detalii Cont"{
+  --> ACTIVITY(Vizualizează detalii cont)
+  
+}
+
+' Tranzactii Financiare
+package "Tranzactii Financiare" {
+   --> ACTIVITY(Transferă bani)
+  --> ACTIVITY(Plătește facturi)
+  --> ACTIVITY(Programează plăți recurente)
+  --> ACTIVITY(Vizualizează extrase de cont)
+  
+}
+
+' Comunicare 
+package "Comunicare " {
+   --> ACTIVITY(Trimite și primește mesaje securizate)
+  }
+  
+'Alerte
+package "Alerte"{
+--> ACTIVITY(Setează și gestionează alerte)
+
+}
+
+' Gestionare Documente 
+package "Gestionare Documente"  {
+  --> ACTIVITY(Încarcă și gestionează documente)
+}
+
+'Închidere Cont
+package "Închidere Cont" {
+  --> ACTIVITY(Solicită închiderea contului)
+  --> DECISION(Confirmă închiderea?)
+  --> [Da] ACTIVITY(Confirmă închiderea)
+  --> ACTIVITY(Afișează mesaj confirmare închidere)
+  --> [Nu] ACTIVITY(Anulează cererea)
+  
+}
+
+' Reinstalare Cont 
+package "Reinstalare Cont  {
+   --> ACTIVITY(Solicită reinstalarea contului)
+  --> DECISION(Confirmă reinstalarea?)
+  --> [Da] ACTIVITY(Confirmă reinstalarea)
+  --> ACTIVITY(Afișează mesaj confirmare reinstalare)
+  --> [Nu] ACTIVITY(Anulează cererea)
+}
+
+'Actualizare Informații
+package "Actualizare Informații" {
+  --> ACTIVITY(Actualizează informații personale)
+  --> ACTIVITY(Schimbă parola)
+  --> ACTIVITY(Verifică identitatea utilizatorului)
+  --> ACTIVITY(Afișează mesaj confirmare actualizare)
+  
+}
+
+' Suport Clienti 
+package "Suport Clienti " {
+   --> ACTIVITY(Accesează FAQs)
+  --> ACTIVITY(Contactează suportul)
+  --> ACTIVITY(Afișează orele de suport)
+  --> ACTIVITY(Afișează mesaj confirmare contact suport)
+}
+
+'Gestionare Tranzactii în Așteptare
+package "Gestionare Tranzactii în Așteptare" {
+  --> ACTIVITY(Vizualizează tranzacții în așteptare)
+  --> DECISION(Aprobă sau respinge tranzacții?)
+  --> [Aprobă] ACTIVITY(Aprobă tranzacția)
+  --> ACTIVITY(Procesează tranzacția aprobată)
+  --> ACTIVITY(Afișează mesaj confirmare tranzacție)
+  --> [Respinge] ACTIVITY(Respinge tranzacția)
+  --> ACTIVITY(Anulează tranzacția)
+  
+}
+@enduml
+
+Diagrama de Clase:
+@startuml
+class User {
+  -userID: String
+  -username: String
+  -password: String
+  -email: String
+  -phoneNumber: String
+  +login()
+  +logout()
+  +viewAccountDetails()
+  +updatePersonalInfo()
+  +changePassword()
+  +sendMessage()
+  +receiveMessage()
+  +setAlerts()
+  +uploadDocument()
+  +downloadDocument()
+  +requestAccountClosure()
+  +requestAccountReinstatement()
+  +schedulePayment()
+  +contactSupport()
+}
+
+class Account {
+  -accountID: String
+  -balance: Double
+  -transactionHistory: List<Transaction>
+  +viewBalance()
+  +viewTransactionHistory()
+  +viewStatements()
+  +downloadStatements()
+}
+
+class Transaction {
+  -transactionID: String
+  -date: Date
+  -amount: Double
+  -status: String
+  +transferFunds()
+  +approveOrRejectTransaction()
+  +cancelTransaction()
+}
+
+class Bill {
+  -billID: String
+  -dueDate: Date
+  -amount: Double
+  -status: String
+  +payBill()
+  +scheduleRecurringPayment()
+}
+
+class Transfer {
+  -transferID: String
+  -sourceAccount: Account
+  -destinationAccount: Account
+  -amount: Double
+  -status: String
+  +initiateTransfer()
+  +verifyAccounts()
+  +completeTransfer()
+}
+
+class Statement {
+  -statementID: String
+  -period: String
+  -transactions: List<Transaction>
+  +generateStatement()
+  +printStatement()
+}
+
+class Message {
+  -messageID: String
+  -content: String
+  -attachments: List<Document>
+  +sendSecureMessage()
+  +attachFile()
+}
+
+class Alert {
+  -alertID: String
+  -type: String
+  -parameters: Map<String, String>
+  +triggerAlert()
+}
+
+class Document {
+  -documentID: String
+  -type: String
+  -content: Byte[]
+  +uploadDocument()
+  +verifyDocument()
+  +downloadDocument()
+}
+
+User "1" -- "0..*" Account
+Account "1" -- "0..*" Transaction
+Account "1" -- "0..*" Bill
+Account "1" -- "0..*" Transfer
+Account "1" -- "0..*" Statement
+User "1" -- "0..*" Message
+User "1" -- "0..*" Alert
+User "1" -- "0..*" Document
+@enduml
+
+Diagrama de Secventa:
+@startuml
+participant "Utilizator" as U
+participant "Sistem" as S
+
+U -> S: Autentificare (CER-2)
+S --> U: Afișează mesaje de eroare pentru datele de autentificare incorecte (CER-5)
+
+U -> S: Vizualizare detalii cont (CER-1)
+S --> U: Menține istoricul tranzacțiilor pentru fiecare cont (CER-3)
+
+U -> S: Deconectare (CER-4)
+
+U -> S: Transfer bani (CER-6)
+S --> U: Verifică conturile sursă și destinație (CER-7)
+S --> U: Menține un înregistrări cu toate transferurile (CER-8)
+S --> U: Afișează mesaje de confirmare pentru transferurile reușite (CER-9)
+S --> U: Oferă mesaje de eroare pentru detalii de cont incorecte sau fonduri insuficiente (CER-10)
+
+U -> S: Plătește facturi (CER-11)
+S --> U: Menține o înregistrare cu toate plățile de facturi (CER-12)
+S --> U: Afișează mesaje de confirmare pentru plățile de facturi reușite (CER-13)
+S --> U: Oferă mesaje de eroare pentru detaliile de plată incorecte sau fonduri insuficiente (CER-14)
+
+U -> S: Programează plăți recurente (CER-15)
+
+U -> S: Vizualizează extrase de cont (CER-16)
+S --> U: Generează extrasele cu exactitate în funcție de selecția utilizatorului (CER-17)
+S --> U: Afișează extrasele într-un format ușor de citit și organizat (CER-18)
+S --> U: Permite utilizatorilor să descarce sau să tipărească extrasele (CER-19)
+
+U -> S: Trimite și primește mesaje securizate (CER-20)
+S --> U: Menține confidențialitatea și integritatea mesajelor (CER-21)
+S --> U: Afișează o notificare pentru mesajele noi (CER-22)
+S --> U: Permite utilizatorilor să atașeze fișiere la mesaje (CER-23)
+
+U -> S: Setează alerte (CER-24)
+S --> U: Declanșează alertele pe baza parametrilor definiți de utilizator (CER-25)
+S --> U: Livrează alertele prin email sau mesaj text (CER-26)
+S --> U: Permite utilizatorilor să gestioneze și să șteargă alertele (CER-27)
+
+U -> S: Încarcă documente (CER-28)
+S --> U: Acceptă diferite formate de documente (CER-29)
+S --> U: Menține confidențialitatea și integritatea documentelor încărcate (CER-30)
+S --> U: Afișează un mesaj de confirmare pentru încărcările de documente reușite (CER-31)
+
+U -> S: Solicită închiderea contului (CER-32)
+S --> U: Afișează un mesaj de avertisment înainte de a procesa cererea de închidere (CER-33)
+S --> U: Procesează cererea de închidere numai dacă utilizatorul o confirmă (CER-34)
+S --> U: Afișează un mesaj de confirmare pentru închiderile de conturi reușite (CER-35)
+
+U -> S: Actualizează informații personale (CER-36)
+S --> U: Schimbă parola (CER-37)
+S --> U: Verifică identitatea utilizatorului înainte de a permite actualizări ale informațiilor personale sau schimbări ale parolei (CER-38)
+S --> U: Afișează un mesaj de confirmare pentru actualizările de profil sau schimbările de parolă reușite (CER-39)
+
+U -> S: Accesează FAQs (CER-40)
+
+U -> S: Contactează suportul (CER-41)
+S --> U: Afișează orele de suport și informațiile de contact (CER-42)
+S --> U: Afișează un mesaj de confirmare pentru contactele reușite cu suportul (CER-43)
+
+U -> S: Solicită reinstalarea contului (CER-44)
+S --> U: Afișează un mesaj de avertisment înainte de a procesa cererea de reinstalare (CER-45)
+S --> U: Procesează cererea de reinstalare numai dacă utilizatorul o confirmă (CER-46)
+S --> U: Afișează un mesaj de confirmare pentru reinstalările de conturi reușite (CER-47)
+
+U -> S: Vizualizează tranzacțiile în așteptare (CER-48)
+S --> U: Aprobă sau respinge tranzacțiile în așteptare (CER-49)
+S --> U: Procesează tranzacțiile aprobate imediat și trimite mesaje de confirmare (CER-50)
+S --> U: Permite utilizatorilor să anuleze tranzacțiile în așteptare (CER-51)
+@enduml
