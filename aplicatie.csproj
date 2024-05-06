@@ -11,4 +11,16 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Databases\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\front-end\currency.html" />
+    <None Include="wwwroot\front-end\login.html" />
+    <None Include="wwwroot\front-end\register.html" />
+    <None Include="wwwroot\front-end\styles.css" />
+    <None Include="wwwroot\front-end\welcome_page.html" />
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\currency.html",
+      "PackagePath": "staticwebassets\\front-end\\currency.html"
+    },
+    {
+      "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\login.html",
+      "PackagePath": "staticwebassets\\front-end\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\register.html",
+      "PackagePath": "staticwebassets\\front-end\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\styles.css",
+      "PackagePath": "staticwebassets\\front-end\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\welcome_page.html",
+      "PackagePath": "staticwebassets\\front-end\\welcome_page.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.aplicatie.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.aplicatie.props",
+      "PackagePath": "build\\aplicatie.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.aplicatie.props",
+      "PackagePath": "buildMultiTargeting\\aplicatie.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.aplicatie.props",
+      "PackagePath": "buildTransitive\\aplicatie.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\wwwroot\\front-end\\welcome_page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:wwwroot\\front-end\\welcome_page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\wwwroot\\front-end\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:wwwroot\\front-end\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\aplicatie.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:aplicatie.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\models\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:models\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\models\\transfermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:models\\transfermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\models\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:models\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\styles.css",
+              "RelativeDocumentMoniker": "wwwroot\\front-end\\styles.css",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\styles.css",
+              "RelativeToolTip": "wwwroot\\front-end\\styles.css",
+              "ViewState": "AQIAADcAAAAAAAAAAAAowE4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-06T15:13:30.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "welcome_page.html",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\welcome_page.html",
+              "RelativeDocumentMoniker": "wwwroot\\front-end\\welcome_page.html",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\welcome_page.html",
+              "RelativeToolTip": "wwwroot\\front-end\\welcome_page.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-06T15:11:19.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "aplicatie.http",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\aplicatie.http",
+              "RelativeDocumentMoniker": "aplicatie.http",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\aplicatie.http",
+              "RelativeToolTip": "aplicatie.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-06T14:29:42.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T15:11:07.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:01:12.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T14:55:55.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwD8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:54:27.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Controllers\\TransactionController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:48:28.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:47:27.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:50:26.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransferModel.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\TransferModel.cs",
+              "RelativeDocumentMoniker": "Models\\TransferModel.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\TransferModel.cs",
+              "RelativeToolTip": "Models\\TransferModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:50:59.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:48:02.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionType.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\TransactionType.cs",
+              "RelativeDocumentMoniker": "Models\\TransactionType.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\TransactionType.cs",
+              "RelativeToolTip": "Models\\TransactionType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:36:17.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\Transaction.cs",
+              "RelativeToolTip": "Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:33:51.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Services\\TransactionService.cs",
+              "RelativeToolTip": "Services\\TransactionService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:39:35.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:38:53.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:38:08.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "Models\\Address.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\Address.cs",
+              "RelativeToolTip": "Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:36:45.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreditCard.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\CreditCard.cs",
+              "RelativeDocumentMoniker": "Models\\CreditCard.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\CreditCard.cs",
+              "RelativeToolTip": "Models\\CreditCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:35:43.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\Loan.cs",
+              "RelativeDocumentMoniker": "Models\\Loan.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\Loan.cs",
+              "RelativeToolTip": "Models\\Loan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:35:14.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\Notification.cs",
+              "RelativeToolTip": "Models\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:34:35.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\Currency.cs",
+              "RelativeDocumentMoniker": "Models\\Currency.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\Currency.cs",
+              "RelativeToolTip": "Models\\Currency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:34:13.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Models\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\BankAccount.cs",
+              "RelativeToolTip": "Models\\BankAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:32:39.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:32:11.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

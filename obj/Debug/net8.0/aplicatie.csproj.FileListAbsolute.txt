@@ -64,3 +64,5 @@ C:\Users\drago\OneDrive\Desktop\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\
 C:\Users\drago\OneDrive\Desktop\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\obj\Debug\net8.0\aplicatie.pdb
 C:\Users\drago\OneDrive\Desktop\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\obj\Debug\net8.0\aplicatie.genruntimeconfig.cache
 C:\Users\drago\OneDrive\Desktop\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\obj\Debug\net8.0\ref\aplicatie.dll
+C:\Users\drago\OneDrive\Desktop\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\obj\Debug\net8.0\aplicatie.sourcelink.json
+C:\Users\drago\OneDrive\Desktop\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\bin\Debug\net8.0\aplicatie.staticwebassets.runtime.json

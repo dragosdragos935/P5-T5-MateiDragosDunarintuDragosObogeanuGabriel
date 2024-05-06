@@ -1,57 +1,76 @@
-using Microsoft.AspNetCore.Builder;
+﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.FileProviders;
 using Microsoft.Extensions.Hosting;
+using Microsoft.OpenApi.Models;
 using System;
-using System.IO;
 
-internal class Program
+namespace aplicatie
 {
-    private static void Main(string[] args)
+    public class Program
     {
-        var builder = WebApplication.CreateBuilder(args);
-
-        // Configure services
-        builder.Services.AddRouting(); // Move service registration before Build()
-
-        var app = builder.Build();
-
-        // Serve the frontend files
-        var frontEndDirectory = Path.Combine(Directory.GetCurrentDirectory(), "front-end");
-        var welcomePagePath = Path.Combine(frontEndDirectory, "welcome_page.html");
-        var cssFilePath = Path.Combine(frontEndDirectory, "styles.css");
-
-        app.UseStaticFiles(new StaticFileOptions
+        public static void Main(string[] args)
         {
-            FileProvider = new PhysicalFileProvider(frontEndDirectory),
-            RequestPath = "/front-end" // Update the RequestPath to match the frontend path
-        });
+            var builder = WebApplication.CreateBuilder(args);
 
-        app.MapGet("/", context =>
-        {
-            if (File.Exists(welcomePagePath))
+            // Adaugă serviciile în container.
+            ConfigureServices(builder.Services);
+
+            var app = builder.Build();
+
+            // Configurează pipeline-ul de request-uri HTTP.
+            if (app.Environment.IsDevelopment())
             {
-                var content = File.ReadAllText(welcomePagePath);
-                // Ensure CSS file is linked in the HTML file
-                content = content.Replace("</head>", $"<link rel=\"stylesheet\" type=\"text/css\" href=\"/front-end/styles.css\"></head>");
-                return context.Response.WriteAsync(content);
+                app.UseDeveloperExceptionPage();
+                app.UseSwagger();
+                app.UseSwaggerUI(c =>
+                {
+                    c.SwaggerEndpoint("/swagger/v1/swagger.json", "API Documentation v1");
+                });
             }
             else
             {
-                return context.Response.WriteAsync("Welcome page not found.");
+                app.UseExceptionHandler("/Home/Error");
+                app.UseHsts();
             }
-        });
 
-        // Define API endpoints
-        app.MapGet("/weatherforecast", async context =>
+            app.UseHttpsRedirection();
+            app.UseStaticFiles();
+            app.UseRouting();
+            app.UseAuthorization();
+
+            // Adăugăm un handler pentru ruta care va servi fișierul welcome_page.html
+            app.MapGet("/", async context =>
+            {
+                var file = Path.Combine(app.Environment.ContentRootPath, "wwwroot", "front-end", "welcome_page.html");
+                if (File.Exists(file))
+                {
+                    await context.Response.SendFileAsync(file);
+                }
+                else
+                {
+                    context.Response.StatusCode = 404;
+                    await context.Response.WriteAsync("Pagina nu a fost găsită.\n" +
+                                                      "Dacă vezi această pagină, este posibil ca fișierul 'welcome_page.html' să lipsească sau să fie denumit greșit.\n" +
+                                                      "Asigură-te că fișierul 'welcome_page.html' există în directorul 'wwwroot/front-end' al aplicației tale.");
+                }
+            });
+
+            app.Run();
+        }
+
+        public static void ConfigureServices(IServiceCollection services)
         {
-            // Your API logic here
-            await context.Response.WriteAsync("Hello from API!");
-        });
+            // Adaugă serviciile necesare în container
+            services.AddControllersWithViews();
 
-        // Start the web server
-        app.Run(); // Make sure your application is configured to listen on the correct port
+            // Adaugă serviciile Swagger
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "API Documentation", Version = "v1" });
+            });
+
+            // Alte servicii necesare pot fi adăugate aici
+        }
     }
 }
