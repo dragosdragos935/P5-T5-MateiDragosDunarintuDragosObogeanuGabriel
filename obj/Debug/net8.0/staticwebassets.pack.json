@@ -17,6 +17,14 @@
       "PackagePath": "staticwebassets\\front-end\\styles.css"
     },
     {
+      "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\styles_login.css",
+      "PackagePath": "staticwebassets\\front-end\\styles_login.css"
+    },
+    {
+      "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\styles_register.css",
+      "PackagePath": "staticwebassets\\front-end\\styles_register.css"
+    },
+    {
       "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\welcome_page.html",
       "PackagePath": "staticwebassets\\front-end\\welcome_page.html"
     },

@@ -1,9 +1,13 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using aplicatie.Models;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using System;
+using System.IO;
 
 namespace aplicatie
 {
@@ -14,9 +18,9 @@ namespace aplicatie
             var builder = WebApplication.CreateBuilder(args);
 
             // Adaugă serviciile în container.
-            ConfigureServices(builder.Services);
+            ConfigureServices(builder.Services, builder.Configuration);
 
-            var app = builder.Build();
+            WebApplication app = builder.Build();
 
             // Configurează pipeline-ul de request-uri HTTP.
             if (app.Environment.IsDevelopment())
@@ -59,10 +63,13 @@ namespace aplicatie
             app.Run();
         }
 
-        public static void ConfigureServices(IServiceCollection services)
+        public static void ConfigureServices(IServiceCollection services, IConfiguration configuration)
         {
             // Adaugă serviciile necesare în container
             services.AddControllersWithViews();
+            services.AddDbContext<AppDbContext>(options =>
+                options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
+            services.AddScoped<IUserRepository, UserRepository>();
 
             // Adaugă serviciile Swagger
             services.AddSwaggerGen(c =>
@@ -72,5 +79,6 @@ namespace aplicatie
 
             // Alte servicii necesare pot fi adăugate aici
         }
+
     }
 }
