@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Open Account</title>
+    <link rel="stylesheet" href="stylesopenaccount.css"> <!-- Link to CSS file -->
+</head>
+<body>
+    <header>
+        <h1>Open a New Account</h1>
+        <nav>
+            <ul>
+                <li><a href="login.html">Login</a></li>
+                <li><a href="register.html">Register</a></li>
+                <li><a href="curency.html">Currency</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="form">
+            <h2>Fill in the form below to open a new account:</h2>
+            <form action="submit_account.php" method="POST">
+                <label for="fullname">Full Name:</label><br>
+                <input type="text" id="fullname" name="fullname" required><br>
+
+                <label for="email">Email:</label><br>
+                <input type="email" id="email" name="email" required><br>
+
+                <label for="password">Password:</label><br>
+                <input type="password" id="password" name="password" required><br>
+
+                <label for="account_type">Account Type:</label><br>
+                <select id="account_type" name="account_type" required>
+                    <option value="savings">Savings Account</option>
+                    <option value="current">Current Account</option>
+                    <option value="fixed">Fixed Deposit</option>
+                    <option value="credit">Credit Card</option>
+                </select><br>
+
+                <label for="initial_deposit">Initial Deposit:</label><br>
+                <input type="number" id="initial_deposit" name="initial_deposit" min="0" required><br>
+
+                <label for="currency">Currency:</label><br>
+                <select id="currency" name="currency" required>
+                    <option value="USD">USD</option>
+                    <option value="EUR">EUR</option>
+                    <option value="GBP">GBP</option>
+                    <option value="JPY">JPY</option>
+                    <option value="CAD">CAD</option>
+                </select><br>
+
+                <label for="agree_terms"><input type="checkbox" id="agree_terms" name="agree_terms" required> I agree to the <a href="terms.html">terms and conditions</a>.</label><br>
+
+                <button type="submit">Open Account</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Our Bank. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script> <!-- Link to JavaScript file -->
+</body>
+</html>

@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pay Bills</title>
+    <link rel="stylesheet" href="paybillscss.css"> <!-- Link to CSS file -->
+</head>
+<body>
+    <header>
+        <h1>Pay Bills</h1>
+        <nav>
+            <ul>
+                <li><a href="login.html">Login</a></li>
+                <li><a href="register.html">Register</a></li>
+                <li><a href="curency.html">Currency</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="bills">
+            <h2>Pay Your Bills</h2>
+            <form id="payBillsForm">
+                <div class="form-group">
+                    <label for="billType">Bill Type:</label><br>
+                    <select id="billType" name="billType">
+                        <option value="electricity">Electricity</option>
+                        <option value="water">Water</option>
+                        <option value="internet">Internet</option>
+                        <option value="phone">Phone</option>
+                        <!-- Add more bill types as needed -->
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="amount">Amount:</label><br>
+                    <input type="number" id="amount" name="amount" min="0" required>
+                </div>
+
+                <button type="submit">Pay Bill</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Our Bank. All rights reserved.</p>
+    </footer>
+</body>
+</html>

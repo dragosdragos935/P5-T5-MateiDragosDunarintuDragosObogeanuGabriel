@@ -1,12 +1,36 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\currency.html",
-      "PackagePath": "staticwebassets\\front-end\\currency.html"
+      "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\curency.html",
+      "PackagePath": "staticwebassets\\front-end\\curency.html"
+    },
+    {
+      "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\curencycss.css",
+      "PackagePath": "staticwebassets\\front-end\\curencycss.css"
     },
     {
       "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\login.html",
       "PackagePath": "staticwebassets\\front-end\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\maketransfer.html",
+      "PackagePath": "staticwebassets\\front-end\\maketransfer.html"
+    },
+    {
+      "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\maketransfercss.css",
+      "PackagePath": "staticwebassets\\front-end\\maketransfercss.css"
+    },
+    {
+      "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\openaccount.html",
+      "PackagePath": "staticwebassets\\front-end\\openaccount.html"
+    },
+    {
+      "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\paybills.html",
+      "PackagePath": "staticwebassets\\front-end\\paybills.html"
+    },
+    {
+      "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\paybillscss.css",
+      "PackagePath": "staticwebassets\\front-end\\paybillscss.css"
     },
     {
       "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\register.html",
@@ -23,6 +47,18 @@
     {
       "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\styles_register.css",
       "PackagePath": "staticwebassets\\front-end\\styles_register.css"
+    },
+    {
+      "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\stylesopenaccount.css",
+      "PackagePath": "staticwebassets\\front-end\\stylesopenaccount.css"
+    },
+    {
+      "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\viewtransactions.html",
+      "PackagePath": "staticwebassets\\front-end\\viewtransactions.html"
+    },
+    {
+      "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\viewtransactionscss.css",
+      "PackagePath": "staticwebassets\\front-end\\viewtransactionscss.css"
     },
     {
       "Id": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\welcome_page.html",

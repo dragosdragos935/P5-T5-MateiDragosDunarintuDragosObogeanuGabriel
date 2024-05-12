@@ -3,44 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\wwwroot\\front-end\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:wwwroot\\front-end\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\welcome_page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:wwwroot\\front-end\\welcome_page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\wwwroot\\front-end\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:wwwroot\\front-end\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\wwwroot\\front-end\\styles_register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:wwwroot\\front-end\\styles_register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\wwwroot\\front-end\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:wwwroot\\front-end\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\wwwroot\\front-end\\styles_login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:wwwroot\\front-end\\styles_login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|c:\\users\\drago\\onedrive\\desktop\\p5-t5-mateidragosdunarintudragosobogeanugabriel\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:wwwroot\\front-end\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\maketransfer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:wwwroot\\front-end\\maketransfer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\aplicatie.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:aplicatie.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\curency.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:wwwroot\\front-end\\curency.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\curencycss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:wwwroot\\front-end\\curencycss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:wwwroot\\front-end\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\maketransfercss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:wwwroot\\front-end\\maketransfercss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\openaccount.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:wwwroot\\front-end\\openaccount.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\paybills.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:wwwroot\\front-end\\paybills.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:wwwroot\\front-end\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\viewtransactions.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:wwwroot\\front-end\\viewtransactions.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\viewtransactionscss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:wwwroot\\front-end\\viewtransactionscss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\paybillscss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:wwwroot\\front-end\\paybillscss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\stylesopenaccount.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:wwwroot\\front-end\\stylesopenaccount.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\styles_register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:wwwroot\\front-end\\styles_register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\styles_login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:wwwroot\\front-end\\styles_login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\aplicatie.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|solutionrelative:aplicatie.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6C97BB2-8E35-468B-B155-E212CBA8A804}|aplicatie.csproj|C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -131,45 +171,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "styles_register.css",
-              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\styles_register.css",
-              "RelativeDocumentMoniker": "wwwroot\\front-end\\styles_register.css",
-              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\styles_register.css",
-              "RelativeToolTip": "wwwroot\\front-end\\styles_register.css",
-              "ViewState": "AQIAABkAAAAAAAAAAAAowCkAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-06T15:37:55.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "styles_login.css",
-              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\styles_login.css",
-              "RelativeDocumentMoniker": "wwwroot\\front-end\\styles_login.css",
-              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\styles_login.css",
-              "RelativeToolTip": "wwwroot\\front-end\\styles_login.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-06T15:37:02.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "register.html",
-              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\register.html",
-              "RelativeDocumentMoniker": "wwwroot\\front-end\\register.html",
-              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\register.html",
-              "RelativeToolTip": "wwwroot\\front-end\\register.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Title": "maketransfer.html",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\maketransfer.html",
+              "RelativeDocumentMoniker": "wwwroot\\front-end\\maketransfer.html",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\maketransfer.html",
+              "RelativeToolTip": "wwwroot\\front-end\\maketransfer.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-06T15:36:28.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T20:28:50.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "login.html",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\login.html",
               "RelativeDocumentMoniker": "wwwroot\\front-end\\login.html",
@@ -177,49 +190,180 @@
               "RelativeToolTip": "wwwroot\\front-end\\login.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-06T15:36:16.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T15:36:16.057Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "styles.css",
-              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\styles.css",
-              "RelativeDocumentMoniker": "wwwroot\\front-end\\styles.css",
-              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\styles.css",
-              "RelativeToolTip": "wwwroot\\front-end\\styles.css",
-              "ViewState": "AQIAADcAAAAAAAAAAAAowE4AAAArAAAA",
+              "DocumentIndex": 5,
+              "Title": "curencycss.css",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\curencycss.css",
+              "RelativeDocumentMoniker": "wwwroot\\front-end\\curencycss.css",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\curencycss.css",
+              "RelativeToolTip": "wwwroot\\front-end\\curencycss.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-06T15:13:30.512Z"
+              "WhenOpened": "2024-05-12T20:36:30.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "curency.html",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\curency.html",
+              "RelativeDocumentMoniker": "wwwroot\\front-end\\curency.html",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\curency.html",
+              "RelativeToolTip": "wwwroot\\front-end\\curency.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-12T20:41:23.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "welcome_page.html",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\welcome_page.html",
               "RelativeDocumentMoniker": "wwwroot\\front-end\\welcome_page.html",
               "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\welcome_page.html",
               "RelativeToolTip": "wwwroot\\front-end\\welcome_page.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-06T15:11:19.908Z",
+              "WhenOpened": "2024-05-06T15:11:19.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\styles.css",
+              "RelativeDocumentMoniker": "wwwroot\\front-end\\styles.css",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\styles.css",
+              "RelativeToolTip": "wwwroot\\front-end\\styles.css",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwHMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-06T15:13:30.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwD4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:54:27.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "maketransfercss.css",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\maketransfercss.css",
+              "RelativeDocumentMoniker": "wwwroot\\front-end\\maketransfercss.css",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\maketransfercss.css",
+              "RelativeToolTip": "wwwroot\\front-end\\maketransfercss.css",
+              "ViewState": "AQIAADgAAAAAAAAAAAAcwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-12T20:29:14.02Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "aplicatie.http",
-              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\aplicatie.http",
-              "RelativeDocumentMoniker": "aplicatie.http",
-              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\aplicatie.http",
-              "RelativeToolTip": "aplicatie.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-05-06T14:29:42.129Z"
+              "Title": "openaccount.html",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\openaccount.html",
+              "RelativeDocumentMoniker": "wwwroot\\front-end\\openaccount.html",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\openaccount.html",
+              "RelativeToolTip": "wwwroot\\front-end\\openaccount.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-12T20:23:26.133Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "paybills.html",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\paybills.html",
+              "RelativeDocumentMoniker": "wwwroot\\front-end\\paybills.html",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\paybills.html",
+              "RelativeToolTip": "wwwroot\\front-end\\paybills.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-12T20:31:30.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "register.html",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\register.html",
+              "RelativeDocumentMoniker": "wwwroot\\front-end\\register.html",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\register.html",
+              "RelativeToolTip": "wwwroot\\front-end\\register.html",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-06T15:36:28.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "viewtransactions.html",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\viewtransactions.html",
+              "RelativeDocumentMoniker": "wwwroot\\front-end\\viewtransactions.html",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\viewtransactions.html",
+              "RelativeToolTip": "wwwroot\\front-end\\viewtransactions.html",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-12T20:34:01.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "viewtransactionscss.css",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\viewtransactionscss.css",
+              "RelativeDocumentMoniker": "wwwroot\\front-end\\viewtransactionscss.css",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\viewtransactionscss.css",
+              "RelativeToolTip": "wwwroot\\front-end\\viewtransactionscss.css",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-12T20:34:30.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "stylesopenaccount.css",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\stylesopenaccount.css",
+              "RelativeDocumentMoniker": "wwwroot\\front-end\\stylesopenaccount.css",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\stylesopenaccount.css",
+              "RelativeToolTip": "wwwroot\\front-end\\stylesopenaccount.css",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-12T20:26:14.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "paybillscss.css",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\paybillscss.css",
+              "RelativeDocumentMoniker": "wwwroot\\front-end\\paybillscss.css",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\paybillscss.css",
+              "RelativeToolTip": "wwwroot\\front-end\\paybillscss.css",
+              "ViewState": "AQIAADYAAAAAAAAAAAAkwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-12T20:32:00.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T14:55:55.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -231,7 +375,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
+              "Title": "styles_login.css",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\styles_login.css",
+              "RelativeDocumentMoniker": "wwwroot\\front-end\\styles_login.css",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\styles_login.css",
+              "RelativeToolTip": "wwwroot\\front-end\\styles_login.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-06T15:37:02.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "styles_register.css",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\styles_register.css",
+              "RelativeDocumentMoniker": "wwwroot\\front-end\\styles_register.css",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\wwwroot\\front-end\\styles_register.css",
+              "RelativeToolTip": "wwwroot\\front-end\\styles_register.css",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowCkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-06T15:37:55.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "aplicatie.http",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\aplicatie.http",
+              "RelativeDocumentMoniker": "aplicatie.http",
+              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\aplicatie.http",
+              "RelativeToolTip": "aplicatie.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-06T14:29:42.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
@@ -243,32 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-06T14:55:55.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAIwD8AAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T14:54:27.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "TransactionController.cs",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Controllers\\TransactionController.cs",
               "RelativeDocumentMoniker": "Controllers\\TransactionController.cs",
@@ -280,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -292,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "Models\\LoginModel.cs",
@@ -304,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
               "Title": "TransferModel.cs",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\TransferModel.cs",
               "RelativeDocumentMoniker": "Models\\TransferModel.cs",
@@ -316,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
@@ -328,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "TransactionType.cs",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\TransactionType.cs",
               "RelativeDocumentMoniker": "Models\\TransactionType.cs",
@@ -340,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\Transaction.cs",
               "RelativeDocumentMoniker": "Models\\Transaction.cs",
@@ -352,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "TransactionService.cs",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Services\\TransactionService.cs",
               "RelativeDocumentMoniker": "Services\\TransactionService.cs",
@@ -364,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "AccountService.cs",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Services\\AccountService.cs",
               "RelativeDocumentMoniker": "Services\\AccountService.cs",
@@ -376,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Services\\AuthService.cs",
@@ -388,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 31,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\Address.cs",
               "RelativeDocumentMoniker": "Models\\Address.cs",
@@ -400,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 32,
               "Title": "CreditCard.cs",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\CreditCard.cs",
               "RelativeDocumentMoniker": "Models\\CreditCard.cs",
@@ -412,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 33,
               "Title": "Loan.cs",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\Loan.cs",
               "RelativeDocumentMoniker": "Models\\Loan.cs",
@@ -424,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 34,
               "Title": "Notification.cs",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\Notification.cs",
               "RelativeDocumentMoniker": "Models\\Notification.cs",
@@ -436,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 35,
               "Title": "Currency.cs",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\Currency.cs",
               "RelativeDocumentMoniker": "Models\\Currency.cs",
@@ -448,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 36,
               "Title": "BankAccount.cs",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\BankAccount.cs",
               "RelativeDocumentMoniker": "Models\\BankAccount.cs",
@@ -460,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 37,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\drago\\OneDrive\\Desktop\\P5-T5-MateiDragosDunarintuDragosObogeanuGabriel\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",

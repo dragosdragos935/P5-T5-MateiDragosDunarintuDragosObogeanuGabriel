@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Make Transfer</title>
+    <link rel="stylesheet" href="maketransfercss.css"> <!-- Link to CSS file -->
+</head>
+<body>
+    <header>
+        <h1>Make a Transfer</h1>
+        <nav>
+            <ul>
+                <li><a href="login.html">Login</a></li>
+                <li><a href="register.html">Register</a></li>
+                <li><a href="curency.html">Currency</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="form">
+            <h2>Fill in the form below to make a transfer:</h2>
+            <form id="transferForm">
+                <div class="form-group">
+                    <label for="recipient">Recipient:</label><br>
+                    <input type="text" id="recipient" name="recipient" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="amount">Amount:</label><br>
+                    <input type="number" id="amount" name="amount" min="0" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="description">Description:</label><br>
+                    <textarea id="description" name="description"></textarea>
+                </div>
+
+                <button type="submit">Make Transfer</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Our Bank. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script> <!-- Link to JavaScript file -->
+</body>
+</html>
